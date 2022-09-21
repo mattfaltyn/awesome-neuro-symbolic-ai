@@ -30,8 +30,10 @@ A `Neural = Symbolic` framework for sound and complete weighted real-value logic
 - [2021 - Logic Embeddings for Complex Query Answering](https://arxiv.org/abs/2103.00418)
 - [2020 - Logical Neural Networks](https://arxiv.org/abs/2006.13155)
 
-
 #### Blogs
+- [2020 - NSQA: Neuro-Symbolic Question Answering](https://towardsdatascience.com/nsqa-neuro-symbolic-question-answering-6d14d98e88f3)
+- [2020 - Getting AI to Reason: Using Logical Neural Networks for Knowledge-Based Question Answering](https://medium.com/swlh/getting-ai-to-reason-using-logical-neural-networks-for-knowledge-based-question-answering-60456654f5fa)
+
 
 ### Videos
 
