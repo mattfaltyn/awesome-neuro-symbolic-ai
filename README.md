@@ -4,14 +4,33 @@ A curated list of awesome Neuro-Symbolic AI (NSAI) frameworks, libraries, softwa
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
+
+
 ## Logical Neural Network (LNN) Framework
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
+
 
 ### Software
 - See the [IBM NSAI Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit) for a full list of associated repositories. 
 
+
 ### Papers
 
+#### Academic
+- [2022 - Foundations of Reasoning with Uncertainty via Real-valued Logics](https://arxiv.org/abs/2008.02429)
+- [2021 - Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning](https://ieeexplore.ieee.org/document/9415044)
+- [2021 - Proof Extraction for Logical Neural Networks](https://openreview.net/forum?id=Xw3kb6UyA31) 
+- [2021 - Neuro-Symbolic Approaches for Text-Based Policy Learning](https://aclanthology.org/2021.emnlp-main.245/)
+- [2021 - Neuro-Symbolic Reinforcement Learning with First-Order Logic](https://aclanthology.org/2021.emnlp-main.283/)
+- [2021 - LOA: Logical Optimal Actions for Text-based Interaction Games](https://aclanthology.org/2021.acl-demo.27/)
+- [2021 - Reinforcement Learning with External Knowledge by using Logical Neural Networks](https://arxiv.org/abs/2103.02363)
+- [2021 - LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking](https://aclanthology.org/2021.acl-long.64/)
+- [2021 - Leveraging Abstract Meaning Representation for Knowledge Base Question Answering](https://aclanthology.org/2021.findings-acl.339/)
+- [2021 - Logic Embeddings for Complex Query Answering](https://arxiv.org/abs/2103.00418)
+- [2020 - Logical Neural Networks](https://arxiv.org/abs/2006.13155)
+
+
+#### Blogs
 
 ### Videos
 
