@@ -5,6 +5,8 @@ A curated list of awesome Neuro-Symbolic AI (NSAI) frameworks, libraries, softwa
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
 
+## Logic Tensor Networks (LTN) Framework
+
 
 ## Logical Neural Network (LNN) Framework
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
