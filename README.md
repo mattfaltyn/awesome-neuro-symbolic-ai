@@ -7,13 +7,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Table of Contents
 - [NSAI Classification](#nsai-classification)
 - [Frameworks](#frameworks)
-  * [Logic Tensor Networks (LTN) Framework](#logic-tensor-networks--ltn--framework)
-  * [Logical Neural Network (LNN) Framework](#logical-neural-network--lnn--framework)
-    + [Software](#software)
-    + [Papers](#papers)
-      - [Academic](#academic)
-      - [Blogs](#blogs)
-  * [Neural Logic Machines (NLM) Framework](#neural-logic-machines--nlm--framework)
 
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures. 
