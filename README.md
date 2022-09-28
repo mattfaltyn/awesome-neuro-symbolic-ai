@@ -9,7 +9,7 @@ Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy o
 
 1. **Symbolic Neural symbolic** — This is the current standard operating procedure of deep learning, where any/all the symbols in the problem are converted to vector embeddings. Vectors are then processed by neural models, which spits out another vector which is then converted to the required symbol.
 2. **Symbolic[Neural]** — This is an over all symbolic solver which uses Neural model internally as subroutine for one or more function.
-3. **Neural|Symbolic** — uses a neural architecture to interpret perceptual data as symbols and relationships that are then reasoned about symbolically. The Neural-Concept Learner is an example.
+3. **Neural:Symbolic** — This is a more refined integration of Neural and Symbolic approaches where the Neural and Symbolic systems are leveraged for different tasks in a big pipeline. Both systems communicate with each other either to extract information or to improve the individual/collective systems performance.
 4. **Neural:Symbolic → Neural** — This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models.
 5. **Neural_{Symbolic}** — uses a neural net that is generated from symbolic rules. An example is the Neural Theorem Prover, which constructs a neural network from an AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks also fall into this category.
 6. **Neural[Symbolic]** — allows a neural model to directly call a symbolic reasoning engine, e.g., to perform an action or evaluate a state.
