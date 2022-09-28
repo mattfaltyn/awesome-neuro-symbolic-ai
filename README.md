@@ -5,6 +5,7 @@ A curated list of awesome Neuro-Symbolic AI (NSAI) frameworks, libraries, softwa
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
 # NSAI Classification
+Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures. 
 
 - **Symbolic Neural symbolic** — is the current approach of many neural models in natural language processing, where words or subword tokens are both the ultimate input and output of large language models. Examples include BERT, RoBERTa, and GPT-3.
 - **Symbolic[Neural]** — is exemplified by AlphaGo, where symbolic techniques are used to call neural techniques. In this case the symbolic approach is Monte Carlo tree search and the neural techniques learn how to evaluate game positions.
