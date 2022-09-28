@@ -4,6 +4,14 @@ A curated list of awesome Neuro-Symbolic AI (NSAI) frameworks, libraries, softwa
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
+# NSAI Classification
+
+- Symbolic Neural symbolic—is the current approach of many neural models in natural language processing, where words or subword tokens are both the ultimate input and output of large language models. Examples include BERT, RoBERTa, and GPT-3.
+- Symbolic[Neural]—is exemplified by AlphaGo, where symbolic techniques are used to call neural techniques. In this case the symbolic approach is Monte Carlo tree search and the neural techniques learn how to evaluate game positions.
+- Neural|Symbolic—uses a neural architecture to interpret perceptual data as symbols and relationships that are then reasoned about symbolically. The Neural-Concept Learner[8] is an example.
+- Neural:Symbolic → Neural—relies on symbolic reasoning to generate or label training data that is subsequently learned by a deep learning model, e.g., to train a neural model for symbolic computation by using a Macsyma-like symbolic mathematics system to create or label examples.
+- Neural_{Symbolic}—uses a neural net that is generated from symbolic rules. An example is the Neural Theorem Prover,[9] which constructs a neural network from an AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks[10] also fall into this category.
+- Neural[Symbolic]—allows a neural model to directly call a symbolic reasoning engine, e.g., to perform an action or evaluate a state.
 
 ## Logic Tensor Networks (LTN) Framework
 
