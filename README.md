@@ -11,8 +11,8 @@ Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy o
 2. **Symbolic[Neural]** — This is an over all symbolic solver which uses Neural model internally as subroutine for one or more function.
 3. **Neural:Symbolic** — This is a more refined integration of Neural and Symbolic approaches where the Neural and Symbolic systems are leveraged for different tasks in a big pipeline. Both systems communicate with each other either to extract information or to improve the individual/collective systems performance.
 4. **Neural:Symbolic → Neural** — This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models.
-5. **Neural_{Symbolic}** — uses a neural net that is generated from symbolic rules. An example is the Neural Theorem Prover, which constructs a neural network from an AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks also fall into this category.
-6. **Neural[Symbolic]** — allows a neural model to directly call a symbolic reasoning engine, e.g., to perform an action or evaluate a state.
+5. **Neural_{Symbolic}** — This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. 
+6. **Neural[Symbolic]** — Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
 
 
 ## Frameworks
