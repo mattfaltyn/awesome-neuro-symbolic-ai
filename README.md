@@ -7,8 +7,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures. 
 
-1. **Symbolic Neural symbolic** — is the current approach of many neural models in natural language processing, where words or subword tokens are both the ultimate input and output of large language models. Examples include BERT, RoBERTa, and GPT-3.
-2. **Symbolic[Neural]** — is exemplified by AlphaGo, where symbolic techniques are used to call neural techniques. In this case the symbolic approach is Monte Carlo tree search and the neural techniques learn how to evaluate game positions.
+1. **Symbolic Neural symbolic** — This is the current standard operating procedure of deep learning, where any/all the symbols in the problem are converted to vector embeddings. Vectors are then processed by neural models, which spits out another vector which is then converted to the required symbol.
+2. **Symbolic[Neural]** — This is an over all symbolic solver which uses Neural model internally as subroutine for one or more function.
 3. **Neural|Symbolic** — uses a neural architecture to interpret perceptual data as symbols and relationships that are then reasoned about symbolically. The Neural-Concept Learner is an example.
 4. **Neural:Symbolic → Neural** — This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models.
 5. **Neural_{Symbolic}** — uses a neural net that is generated from symbolic rules. An example is the Neural Theorem Prover, which constructs a neural network from an AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks also fall into this category.
