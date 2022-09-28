@@ -14,20 +14,20 @@ Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy o
 - **Neural_{Symbolic}** — uses a neural net that is generated from symbolic rules. An example is the Neural Theorem Prover, which constructs a neural network from an AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks also fall into this category.
 - **Neural[Symbolic]** — allows a neural model to directly call a symbolic reasoning engine, e.g., to perform an action or evaluate a state.
 
-## Logic Tensor Networks (LTN) Framework
+### Logic Tensor Networks (LTN) Framework
 
 
-## Logical Neural Network (LNN) Framework
+### Logical Neural Network (LNN) Framework
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
 
 
-### Software
+#### Software
 - See the [IBM NSAI Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit) for a full list of associated repositories. 
 
 
-### Papers
+#### Papers
 
-#### Academic
+##### Academic
 - [2022 - Foundations of Reasoning with Uncertainty via Real-valued Logics](https://arxiv.org/abs/2008.02429)
 - [2022 - Extending Logical Neural Networks Using First-Order Theories](https://arxiv.org/pdf/2207.02978.pdf)
 - [2021 - Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://arxiv.org/abs/2112.03324)
@@ -42,13 +42,13 @@ A `Neural = Symbolic` framework for sound and complete weighted real-value logic
 - [2021 - Logic Embeddings for Complex Query Answering](https://arxiv.org/abs/2103.00418)
 - [2020 - Logical Neural Networks](https://arxiv.org/abs/2006.13155)
 
-#### Blogs
+##### Blogs
 - [2021 - IBM, MIT and Harvard release “Common Sense AI” dataset at ICML 2021](https://research.ibm.com/blog/icml-darpa-agent)
 - [2021 - AI, you have a lot of explaining to do](https://research.ibm.com/blog/explaining-commonsense-ai)
 - [2020 - NSQA: Neuro-Symbolic Question Answering](https://towardsdatascience.com/nsqa-neuro-symbolic-question-answering-6d14d98e88f3)
 - [2020 - Getting AI to Reason: Using Logical Neural Networks for Knowledge-Based Question Answering](https://medium.com/swlh/getting-ai-to-reason-using-logical-neural-networks-for-knowledge-based-question-answering-60456654f5fa)
 - [2020 - Neurosymbolic AI to Give Us Machines With True Common Sense](https://medium.com/swlh/neurosymbolic-ai-to-give-us-machines-with-true-common-sense-9c133b78ab13)
 
-## Neural Logic Machines (NLM) Framework
+### Neural Logic Machines (NLM) Framework
 Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs use tensors to represent logic predicates. 
 
