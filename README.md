@@ -14,6 +14,9 @@ Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy o
 - **Neural_{Symbolic}** — uses a neural net that is generated from symbolic rules. An example is the Neural Theorem Prover, which constructs a neural network from an AND-OR proof tree generated from knowledge base rules and terms. Logic Tensor Networks also fall into this category.
 - **Neural[Symbolic]** — allows a neural model to directly call a symbolic reasoning engine, e.g., to perform an action or evaluate a state.
 
+
+## Frameworks
+
 ### Logic Tensor Networks (LTN) Framework
 
 
