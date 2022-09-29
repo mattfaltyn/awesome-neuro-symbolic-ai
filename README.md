@@ -25,7 +25,9 @@ This is a more refined integration of Neural and Symbolic approaches where the N
 This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models.
 
 ### 5. Neural_{Symbolic}
-This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. 
+This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. Some examples include:
+- [Logic Tensor Networks](#logic-tensor-networks-framework)
+- [Logical Neural Networks](#logical-neural-network-framework)
 
 ### 6. Neural[Symbolic]
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
@@ -33,10 +35,10 @@ Here, the overall Neural model performs symbolic reasoning by either learning th
 
 ## Frameworks
 
-### Logic Tensor Networks (LTN) Framework
+### Logic Tensor Networks Framework
 
 
-### Logical Neural Network (LNN) Framework
+### Logical Neural Network Framework
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
 
 
