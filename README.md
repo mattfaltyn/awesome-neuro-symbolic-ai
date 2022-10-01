@@ -35,6 +35,8 @@ This category covers all the approached where the first-order logic language is 
 - [2020 - Logical Neural Networks](#logical-neural-network)
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
 - [2019 - Neural Logic Machines](#neural-logic-machines)
+- 2006 - Markov logic networks
+
 
 ### 6. Neural[Symbolic]
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
@@ -88,3 +90,8 @@ Sony's Logic Tensor Networks (LTN) is a neurosymbolic framework that supports qu
 
 ### Neural Logic Machines
 Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs use tensors to represent logic predicates.
+
+
+
+### Markov Logic Networks
+Matthew Richardson's and Pedro Domingos' Markov Logic Networks (MLNs) are a first-order knowledge base with a weight attached to each formula (or clause). Together with a set of constants representing objects in the domain, it specifies a ground Markov network containing one feature for each possible grounding of a first-order formula in the KB, with the corresponding weight.
