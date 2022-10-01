@@ -34,7 +34,7 @@ This type is categorized as Neuro-Symbolic systems where the symbolic knowledge 
 This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. Some examples include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
-- 2019 - Neural Logic Machines(#neural-logic-machines)
+- [2019 - Neural Logic Machines](#neural-logic-machines)
 
 ### 6. Neural[Symbolic]
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
