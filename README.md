@@ -35,7 +35,8 @@ This category covers all the approached where the first-order logic language is 
 - [2020 - Logical Neural Networks](#logical-neural-network)
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
 - [2019 - Neural Logic Machines](#neural-logic-machines)
-- 2006 - Markov logic networks
+- 2017 - Hinge-Loss Markov Random Fields and Probabilistic Soft Logic
+- 2006 - Markov Logic Networks
 
 
 ### 6. Neural[Symbolic]
@@ -91,6 +92,10 @@ Sony's Logic Tensor Networks (LTN) is a neurosymbolic framework that supports qu
 ### Neural Logic Machines
 Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs use tensors to represent logic predicates.
 
+
+
+### Hinge-Loss Markov Random Fields and Probabilistic Soft Logic 
+Bach et al's Hinge-Loss Markov Random Fields (HL-MRFs) are a new kind of probabilistic graphical model that generalizes different approaches to convex inference. We unite three approaches from the randomized algorithms, probabilistic graphical models, and fuzzy logic communities, showing that all three lead to the same inference objective. We then define HL-MRFs by generalizing this unified objective. The second new formalism, probabilistic soft logic (PSL), is a probabilistic programming language that makes HL-MRFs easy to define using a syntax based on first-order logic.
 
 
 ### Markov Logic Networks
