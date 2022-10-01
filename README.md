@@ -53,9 +53,9 @@ A `Neural = Symbolic` framework for sound and complete weighted real-value logic
 - See the [IBM NSAI Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit) for a full list of associated repositories. 
 
 
-#### Papers
+#### Media
 
-##### Academic
+##### Academic Papers
 - [2022 - Foundations of Reasoning with Uncertainty via Real-valued Logics](https://arxiv.org/abs/2008.02429)
 - [2022 - Extending Logical Neural Networks Using First-Order Theories](https://arxiv.org/pdf/2207.02978.pdf)
 - [2021 - Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://arxiv.org/abs/2112.03324)
