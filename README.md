@@ -44,6 +44,9 @@ Here, the overall Neural model performs symbolic reasoning by either learning th
 
 ### Logic Tensor Networks Framework
 
+### Neural Logic Machines (NLM) Framework
+Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs use tensors to represent logic predicates. 
+
 
 ### Logical Neural Network Framework
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
@@ -77,6 +80,5 @@ A `Neural = Symbolic` framework for sound and complete weighted real-value logic
 - [2020 - Getting AI to Reason: Using Logical Neural Networks for Knowledge-Based Question Answering](https://medium.com/swlh/getting-ai-to-reason-using-logical-neural-networks-for-knowledge-based-question-answering-60456654f5fa)
 - [2020 - Neurosymbolic AI to Give Us Machines With True Common Sense](https://medium.com/swlh/neurosymbolic-ai-to-give-us-machines-with-true-common-sense-9c133b78ab13)
 
-### Neural Logic Machines (NLM) Framework
-Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs use tensors to represent logic predicates. 
+
 
