@@ -50,10 +50,8 @@ Here, the overall Neural model performs symbolic reasoning by either learning th
 ### Logical Neural Network
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
 
-
 #### Software
 - See the [IBM NSAI Toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit) for a full list of associated repositories. 
-
 
 #### Media
 
@@ -83,6 +81,10 @@ A `Neural = Symbolic` framework for sound and complete weighted real-value logic
 
 
 ### Logic Tensor Networks
+Sony's Logic Tensor Networks (LTN) is a neurosymbolic framework that supports querying, learning, and reasoning with both rich data and abstract knowledge about the world. LTN introduces a fully differentiable logical language, called Real Logic, whereby the elements of a first-order logic signature are grounded onto data using neural computational graphs and first-order fuzzy logic semantics.
+
+
+
 
 ### Neural Logic Machines
 Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both inductive learning and logic reasoning. NLMs use tensors to represent logic predicates.
