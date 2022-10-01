@@ -36,6 +36,7 @@ This category covers all the approached where the first-order logic language is 
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
 - [2019 - Neural Logic Machines](#neural-logic-machines)
 - 2017 - Hinge-Loss Markov Random Fields and Probabilistic Soft Logic
+- 2016 - TensorLog
 - 2006 - Markov Logic Networks
 
 
@@ -96,6 +97,11 @@ Google's Neural Logic Machine (NLM) is a neural-symbolic architecture for both i
 
 ### Hinge-Loss Markov Random Fields and Probabilistic Soft Logic 
 Bach et al's Hinge-Loss Markov Random Fields (HL-MRFs) are a new kind of probabilistic graphical model that generalizes different approaches to convex inference. We unite three approaches from the randomized algorithms, probabilistic graphical models, and fuzzy logic communities, showing that all three lead to the same inference objective. We then define HL-MRFs by generalizing this unified objective. The second new formalism, probabilistic soft logic (PSL), is a probabilistic programming language that makes HL-MRFs easy to define using a syntax based on first-order logic.
+
+
+
+### TensorLog
+Cohen's TensorLog is a probabilistic deductive database in which reasoning uses a differentiable process. In TensorLog, each clause in a logical theory is first converted into certain type of factor graph. Then, for each type of query to the factor graph, the message-passing steps required to perform belief propagation (BP) are “unrolled” into a function, which is differentiable.
 
 
 ### Markov Logic Networks
