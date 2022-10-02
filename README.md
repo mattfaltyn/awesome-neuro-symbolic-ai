@@ -28,19 +28,19 @@ Type II is a hybrid system in which a symbolic solver utilizes neural networks a
 
 
 ### Type III: Neural:Symbolic
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png" height="150">
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png" height="200">
 
 Type III is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
 - Neural-Concept Learner
 
 ### Type IV: Neural:Symbolic → Neural
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-IV.png" height="150">
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-IV.png" height="200">
 
 This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models. Some examples include:
 - Tree LSTMs
 
 ### Type V: Neural_{Symbolic}
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-V.png" height="150">
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-V.png" height="120">
 
 This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. Some examples include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
