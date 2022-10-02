@@ -21,19 +21,27 @@ Type I is standard deep learning. This class is included in the taxonomy as the 
 - GPT-3
 
 ### 2. Type II: Symbolic[Neural]
+![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-II.png?raw=true) 
+
 This is an over all symbolic solver which uses Neural model internally as subroutine for one or more function. Some examples include:
 - AlphaGo
 
 
 ### 3. Type III: Neural:Symbolic
+![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png?raw=true) 
+
 This is a more refined integration of Neural and Symbolic approaches where the Neural and Symbolic systems are leveraged for different tasks in a big pipeline. Both systems communicate with each other either to extract information or to improve the individual/collective systems performance. Some examples include:
 - Neural-Concept Learner
 
 ### 4. Type IV: Neural:Symbolic → Neural
+![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-IV.png?raw=true) 
+
 This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models. Some examples include:
 - Tree LSTMs
 
 ### 5. Type V: Neural_{Symbolic}
+![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-V.png?raw=true) 
+
 This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. Some examples include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
@@ -43,6 +51,8 @@ This category covers all the approached where the first-order logic language is 
 - 2006 - Markov Logic Networks
 
 ### 6. Type VI: Neuro[Symbolic]
+![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-VI.png?raw=true) 
+
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
 - Graph Neural Networks
 
