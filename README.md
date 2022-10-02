@@ -13,7 +13,7 @@ Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy o
 ](https://harshakokel.com/posts/neurosymbolic-systems/) blog post. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
 
 ### 1. Type I: Symbolic Neural symbolic
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-I.jpg?raw=true) 
+![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-I.png?raw=true) 
 
 Type I is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
 - BERT
