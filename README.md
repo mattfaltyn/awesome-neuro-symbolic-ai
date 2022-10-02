@@ -23,7 +23,7 @@ Type I is standard deep learning. This class is included in the taxonomy as the 
 ### Type II: Symbolic[Neural]
 ![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-II.png?raw=true) 
 
-Type II is a hybrid system that utilizes neural networks in conjugation with loosely-coupled symbolic solvers. Some Type II frameworks include:
+Type II is a hybrid system in which a symbolic solver utilizes neural networks as subroutines for one or more functions. Some Type II frameworks include:
 - AlphaGo
 
 
