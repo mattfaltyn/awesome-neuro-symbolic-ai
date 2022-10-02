@@ -11,26 +11,26 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures. 
 
-### 1. Symbolic Neural symbolic
+### 1. Type I: Symbolic Neural symbolic
 This is the current standard operating procedure of deep learning, where any/all the symbols in the problem are converted to vector embeddings. Vectors are then processed by neural models, which spits out another vector which is then converted to the required symbol. Some examples include:
 - BERT
 - RoBERTa
 - GPT-3
 
-### 2. Symbolic[Neural]
+### 2. Type II: Symbolic[Neural]
 This is an over all symbolic solver which uses Neural model internally as subroutine for one or more function. Some examples include:
 - AlphaGo
 
 
-### 3. Neural:Symbolic
+### 3. Type III: Neural:Symbolic
 This is a more refined integration of Neural and Symbolic approaches where the Neural and Symbolic systems are leveraged for different tasks in a big pipeline. Both systems communicate with each other either to extract information or to improve the individual/collective systems performance. Some examples include:
 - Neural-Concept Learner
 
-### 4. Neural:Symbolic → Neural
+### 4. Type IV: Neural:Symbolic → Neural
 This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models. Some examples include:
 - Tree LSTMs
 
-### 5. Neural_{Symbolic}
+### 5. Type V: Neural_{Symbolic}
 This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. Some examples include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
@@ -40,7 +40,7 @@ This category covers all the approached where the first-order logic language is 
 - 2006 - Markov Logic Networks
 
 
-### 6. Neural[Symbolic]
+### 6. Type VI: Neural[Symbolic]
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
 - Graph Neural Networks
 
