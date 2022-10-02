@@ -9,7 +9,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Frameworks](#frameworks)
 
 ## NSAI Classification
-Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from the [summary paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12036) of his presentation. 
+Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from the [summary paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12036) of his presentation. Class descriptions are taken from Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
 
 ### 1. Type I: Symbolic Neural symbolic
 Type I is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
