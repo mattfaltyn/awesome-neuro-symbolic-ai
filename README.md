@@ -13,7 +13,7 @@ Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy o
 ](https://harshakokel.com/posts/neurosymbolic-systems/) blog post. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
 
 ### Type I: Symbolic Neural symbolic
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-I.png?raw=true) 
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-I.png" height="150">
 
 Type I is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
 - BERT
@@ -21,26 +21,26 @@ Type I is standard deep learning. This class is included in the taxonomy as the 
 - GPT-3
 
 ### Type II: Symbolic[Neural]
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-II.png?raw=true) 
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-II.png" height="150">
 
 Type II is a hybrid system in which a symbolic solver utilizes neural networks as subroutines to solve one or more tasks. Some Type II frameworks include:
 - AlphaGo
 
 
 ### Type III: Neural:Symbolic
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png?raw=true) 
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png" height="150">
 
 Type III is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
 - Neural-Concept Learner
 
 ### Type IV: Neural:Symbolic → Neural
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-IV.png?raw=true) 
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-IV.png" height="150">
 
 This type is categorized as Neuro-Symbolic systems where the symbolic knowledge is compiled into the structure of Neural models. Some examples include:
 - Tree LSTMs
 
 ### Type V: Neural_{Symbolic}
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-V.png?raw=true) 
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-V.png" height="150">
 
 This category covers all the approached where the first-order logic language is tensorized and neural methods are used to perform reasoning over this tensorized first-order logic representation. Some examples include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
@@ -51,7 +51,7 @@ This category covers all the approached where the first-order logic language is 
 - 2006 - Markov Logic Networks
 
 ### Type VI: Neuro[Symbolic]
-![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-VI.png?raw=true) 
+<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-VI.png" height="150">
 
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
 - Graph Neural Networks
