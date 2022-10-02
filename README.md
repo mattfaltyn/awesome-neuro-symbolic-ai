@@ -12,7 +12,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures. 
 
 ### 1. Type I: Symbolic Neural symbolic
-This is the current standard operating procedure of deep learning, where any/all the symbols in the problem are converted to vector embeddings. Vectors are then processed by neural models, which spits out another vector which is then converted to the required symbol. Some examples include:
+Type I is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
 - BERT
 - RoBERTa
 - GPT-3
@@ -39,8 +39,7 @@ This category covers all the approached where the first-order logic language is 
 - 2016 - TensorLog
 - 2006 - Markov Logic Networks
 
-
-### 6. Type VI: Neural[Symbolic]
+### 6. Type VI: Neuro[Symbolic]
 Here, the overall Neural model performs symbolic reasoning by either learning the relations between the symbols or paying attention to selected symbols at certain point. 
 - Graph Neural Networks
 
