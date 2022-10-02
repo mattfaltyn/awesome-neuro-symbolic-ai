@@ -9,7 +9,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Frameworks](#frameworks)
 
 ## NSAI Classification
-Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from Harsha Kokel's [Types of Neuro-Symbolic Systems
+Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
 ](https://harshakokel.com/posts/neurosymbolic-systems/) blog post. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
 
 ### Type I: Symbolic Neural symbolic
@@ -23,14 +23,14 @@ Type I is standard deep learning. This class is included in the taxonomy as the 
 ### Type II: Symbolic[Neural]
 ![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-II.png?raw=true) 
 
-Type II is a hybrid system in which a symbolic solver utilizes neural networks as subroutines for one or more functions. Some Type II frameworks include:
+Type II is a hybrid system in which a symbolic solver utilizes neural networks as subroutines to solve one or more tasks. Some Type II frameworks include:
 - AlphaGo
 
 
 ### Type III: Neural:Symbolic
 ![alt text](https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png?raw=true) 
 
-This is a more refined integration of Neural and Symbolic approaches where the Neural and Symbolic systems are leveraged for different tasks in a big pipeline. Both systems communicate with each other either to extract information or to improve the individual/collective systems performance. Some examples include:
+Type III is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
 - Neural-Concept Learner
 
 ### Type IV: Neural:Symbolic → Neural
