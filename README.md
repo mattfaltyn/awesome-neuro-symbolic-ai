@@ -88,7 +88,10 @@ A `Neural = Symbolic` framework for sound and complete weighted real-value logic
 ##### Blogs
 - [2021 - IBM, MIT and Harvard release “Common Sense AI” dataset at ICML 2021](https://research.ibm.com/blog/icml-darpa-agent)
 - [2021 - AI, you have a lot of explaining to do](https://research.ibm.com/blog/explaining-commonsense-ai)
+- [2020 - Logical Neural Networks](https://skirmilitor.medium.com/logical-neural-networks-31498d1aa9be)
 - [2020 - NSQA: Neuro-Symbolic Question Answering](https://towardsdatascience.com/nsqa-neuro-symbolic-question-answering-6d14d98e88f3)
+- [2020 - Semantic Parsing using Abstract Meaning Representation](https://medium.com/@sroukos/semantic-parsing-using-abstract-meaning-representation-95242518a380)
+- [2020 - A Semantic Parsing-based Relation Linking approach for Knowledge Base Question Answering](https://medium.com/@sroukos/a-semantic-parsing-based-relation-linking-approach-for-knowledge-base-question-answering-93c14d7931c1)
 - [2020 - Getting AI to Reason: Using Logical Neural Networks for Knowledge-Based Question Answering](https://medium.com/swlh/getting-ai-to-reason-using-logical-neural-networks-for-knowledge-based-question-answering-60456654f5fa)
 - [2020 - Neurosymbolic AI to Give Us Machines With True Common Sense](https://medium.com/swlh/neurosymbolic-ai-to-give-us-machines-with-true-common-sense-9c133b78ab13)
 
