@@ -4,17 +4,29 @@ A curated list of awesome Neuro-Symbolic AI (NSAI or NeSy) frameworks, libraries
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
+
+
+
 ## Table of Contents
 - [NSAI Basics](#nsai-basics-and-resources)
-- [NSAI Classification](#nsai-classification)
+- [NSAI Classification](#nsai-classifications)
 - [Frameworks](#frameworks)
+
+
+
+
 
 ## NSAI Basics and Resources
 
 ### What is NSAI?
 According to the [Sixteenth International Workshop on Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning. It hopes to create synergies among the strengths of neural and symbolic AI while overcoming their complementary weaknesses."
 
-### NSAI Overview Articles
+### Textbooks
+- [2022 - Neuro-Symbolic Artificial Intelligence: The State of the Art](https://www.iospress.com/catalog/books/neuro-symbolic-artificial-intelligence-the-state-of-the-art)
+- [2009 - Neural-Symbolic Cognitive Reasoning](https://link.springer.com/book/10.1007/978-3-540-73246-4)
+- [2002 - Neural-Symbolic Learning Systems: Foundations and Applications](https://link.springer.com/book/10.1007/978-1-4471-0211-3)
+
+### Overview Articles
 - [2022 - Towards Data-and Knowledge-Driven Artificial Intelligence: A Survey on Neuro-Symbolic Computing](https://arxiv.org/abs/2210.15889)
 - [2022 - Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review](https://arxiv.org/abs/2202.12205)
 - [2021 - Neuro-Symbolic Artificial Intelligence: Current Trends](https://arxiv.org/abs/2105.05330)
@@ -25,7 +37,11 @@ According to the [Sixteenth International Workshop on Neural-Symbolic Learning a
 - [2005 - Dimensions of Neural-symbolic Integration - A Structured Survey](https://arxiv.org/abs/cs/0511042)
 - [2004 - The Integration of Connectionism and First-Order Knowledge Representation and Reasoning as a Challenge for Artificial Intelligence](https://ui.adsabs.harvard.edu/abs/2004cs........8069B/abstract)
 
-## NSAI Classification
+
+
+
+
+## NSAI Classifications
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
 ](https://harshakokel.com/posts/neurosymbolic-systems/) blog post. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
 
