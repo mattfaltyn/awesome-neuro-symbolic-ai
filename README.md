@@ -5,11 +5,11 @@ A curated list of awesome Neuro-Symbolic AI (NSAI or NeSy) frameworks, libraries
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
 ## Table of Contents
-- [NSAI Basics](#nsai-basics)
+- [NSAI Basics](#nsai-basics-and-resources)
 - [NSAI Classification](#nsai-classification)
 - [Frameworks](#frameworks)
 
-## NSAI Basics
+## NSAI Basics and Resources
 
 ### What is NSAI?
 According to the [Sixteenth International Workshop on Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning. It hopes to create synergies among the strengths of neural and symbolic AI while overcoming their complementary weaknesses."
