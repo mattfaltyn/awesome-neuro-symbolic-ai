@@ -9,7 +9,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Frameworks](#frameworks)
 
 ## What is NSAI?
-According to the [16TH INTERNATIONAL WORKSHOP ON NEURAL-SYMBOLIC LEARNING AND REASONING](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning".
+According to the [Sixteenth International Workshop on Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning".
 
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
