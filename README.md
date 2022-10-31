@@ -61,6 +61,7 @@ A Type VI system should be capable of true symbolic and combinatorial reasoning 
 
 ## Frameworks 
 
+In this section, we aim to provide the most comprehensive NSAI frameworks.
 
 ### Logical Neural Network
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
