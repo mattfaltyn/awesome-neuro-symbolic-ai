@@ -22,8 +22,8 @@ According to the [Sixteenth International Workshop on Neural-Symbolic Learning a
 - [2017 - Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902)
 - [2015 - Neural-Symbolic Learning and Reasoning: Contributions and Challenges](https://openaccess.city.ac.uk/id/eprint/11838/)
 - [2009 - The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI](https://www.ijcai.org/proceedings/2018/0718.pdf)
-- [2004 - The Integration of Connectionism and First-Order Knowledge Representation and Reasoning as a Challenge for Artificial Intelligence](https://ui.adsabs.harvard.edu/abs/2004cs........8069B/abstract)
 - [2005 - Dimensions of Neural-symbolic Integration - A Structured Survey](https://arxiv.org/abs/cs/0511042)
+- [2004 - The Integration of Connectionism and First-Order Knowledge Representation and Reasoning as a Challenge for Artificial Intelligence](https://ui.adsabs.harvard.edu/abs/2004cs........8069B/abstract)
 
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
