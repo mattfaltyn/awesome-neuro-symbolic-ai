@@ -14,11 +14,15 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### What is NSAI?
 According to the [Sixteenth International Workshop on Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning. It hopes to create synergies among the strengths of neural and symbolic AI while overcoming their complementary weaknesses."
 
-### NSAI Review Articles
-- [2022 - Foundations of Reasoning with Uncertainty via Real-valued Logics](https://arxiv.org/abs/2008.02429)
-- [2022 - Extending Logical Neural Networks Using First-Order Theories](https://arxiv.org/pdf/2207.02978.pdf)
-- [2021 - Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks](https://arxiv.org/abs/2112.03324)
-- [2021 - Training Logical Neural Networks by Primal–Dual Methods for Neuro-Symbolic Reasoning](https://ieeexplore.ieee.org/document/9415044)
+### NSAI Overview Articles
+- [2022 - Towards Data-and Knowledge-Driven Artificial Intelligence: A Survey on Neuro-Symbolic Computing](https://arxiv.org/abs/2210.15889)
+- [2022 - Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review(https://arxiv.org/abs/2202.12205)
+- [2021 - Neuro-Symbolic Artificial Intelligence: Current Trends](https://arxiv.org/abs/2105.05330)
+- [2021 - Neuro-Symbolic VQA: A review from the perspective of AGI desiderata](https://arxiv.org/abs/2104.06365)
+- [2017 - Neural-Symbolic Learning and Reasoning: A Survey and Interpretation](https://arxiv.org/abs/1711.03902)
+- [2015 - Neural-Symbolic Learning and Reasoning: Contributions and Challenges](https://openaccess.city.ac.uk/id/eprint/11838/)
+- [2009 - The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI](https://www.ijcai.org/proceedings/2018/0718.pdf)
+-
 
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
