@@ -1,12 +1,15 @@
 # Awesome Neuro-Symbolic AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Neuro-Symbolic AI (NSAI) frameworks, libraries, software, papers, and videos.
+A curated list of awesome Neuro-Symbolic AI (NSAI or NeSy) frameworks, libraries, software, papers, and videos.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@mattfaltyn](https://mattfaltyn.github.io/).
 
 ## Table of Contents
 - [NSAI Classification](#nsai-classification)
 - [Frameworks](#frameworks)
+
+## What is NSAI?
+According to the [16TH INTERNATIONAL WORKSHOP ON NEURAL-SYMBOLIC LEARNING AND REASONING](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning".
 
 ## NSAI Classification
 Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
