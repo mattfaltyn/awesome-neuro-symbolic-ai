@@ -61,11 +61,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 
 ## NSAI Classifications
-Based on [Henry Kautz’s](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy of neuro-symbolic architectures from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence. Images are taken directly from [Harsha Kokel's](https://harshakokel.com/) [Types of Neuro-Symbolic Systems
-](https://harshakokel.com/posts/neurosymbolic-systems/) blog post. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
+[Henry Kautz's](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence (slides [here](https://ai.ntu.edu.tw/mlss2021/wp-content/uploads/2021/08/0804-Henry-Kautz.pdf)) is informal standard for classifying neuro-symbolic architectures. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
 
 ### Type I: Symbolic Neural symbolic
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-I.png" height="150">
 
 A Type I system is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
 - BERT
@@ -73,26 +71,22 @@ A Type I system is standard deep learning. This class is included in the taxonom
 - GPT-3
 
 ### Type II: Symbolic[Neural]
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-II.png" height="150">
 
 A Type II system is a hybrid system in which a symbolic solver utilizes neural networks as subroutines to solve one or more tasks. Some Type II frameworks include:
 - AlphaGo
 
 
 ### Type III: Neural:Symbolic
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-III.png" height="200">
 
 A Type III system is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
 - Neural-Concept Learner
 
 ### Type IV: Neural:Symbolic → Neural
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-IV.png" height="200">
 
 Type IV is a system in which the symbolic knowledge is compiled into the training set of a neural network. Some Type IV frameworks include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
 
 ### Type V: Neural_{Symbolic}
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-V.png" height="120">
 
 A Type V system is a tightly-coupled but distributed neuralsymbolic systems where a symbolic logic rule is mapped onto an embedding which acts as a soft-constraint on the network’s loss function. These systems are often tensorized in some manner. Some Type V frameworks include:
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
@@ -102,7 +96,6 @@ A Type V system is a tightly-coupled but distributed neuralsymbolic systems wher
 - 2006 - Markov Logic Networks
 
 ### Type VI: Neuro[Symbolic]
-<img src="https://github.com/traincheck-ai/awesome-neuro-symbolic-ai/blob/main/images/type-VI.png" height="150">
 
 A Type VI system should be capable of true symbolic and combinatorial reasoning inside a neural engine. While no Type VI framework exists, here are some approaches: 
 - Graph Neural Networks
@@ -111,9 +104,9 @@ A Type VI system should be capable of true symbolic and combinatorial reasoning 
 
 
 
-## Frameworks 
+## Architectures 
 
-In this section, we aim to provide the most comprehensive NSAI frameworks.
+In this section, we aim to provide the most comprehensive NSAI architectures.
 
 ### Logical Neural Network
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
