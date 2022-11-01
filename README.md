@@ -71,7 +71,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 A Type I (symbolic Neuro symbolic) system is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
 - [QDGAT](https://arxiv.org/abs/2009.07448)
 - [TBox](https://www.researchgate.net/profile/Yu-Gu-24/publication/359972607_Local_ABox_Consistency_Prediction_with_Transparent_TBoxes_Using_Gated_Graph_Neural_Networks/links/62591a8c709c5c2adb7d16f5/Local-ABox-Consistency-Prediction-with-Transparent-TBoxes-Using-Gated-Graph-Neural-Networks.pdf)
-- 
+- [Sememes-Based Framework for KG Embeddings](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_34)
+- [D4-Gumbel](https://aclanthology.org/P19-1026/)
+- [Cowen-Rivers et al (2019)](https://arxiv.org/abs/1906.04985)
 
 
 ### Category 2: Nested 
