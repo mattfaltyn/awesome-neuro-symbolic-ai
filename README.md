@@ -69,9 +69,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 ####  Type I
 
 A Type I (symbolic Neuro symbolic) system is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
-- BERT
-- RoBERTa
-- GPT-3
+- [QDGAT](https://arxiv.org/abs/2009.07448)
+- [TBox](https://www.researchgate.net/profile/Yu-Gu-24/publication/359972607_Local_ABox_Consistency_Prediction_with_Transparent_TBoxes_Using_Gated_Graph_Neural_Networks/links/62591a8c709c5c2adb7d16f5/Local-ABox-Consistency-Prediction-with-Transparent-TBoxes-Using-Gated-Graph-Neural-Networks.pdf)
+- 
 
 
 ### Category 2: Nested 
@@ -99,7 +99,7 @@ Type IV (Neuro: Symbolic → Neuro) is a system in which the symbolic knowledge 
 
 ### Type V
 
-A Type V (Neuro_Symbolic) system is a tightly-coupled but distributed neuralsymbolic systems where a symbolic logic rule is mapped onto an embedding which acts as a soft-constraint on the network’s loss function. These systems are often tensorized in some manner. Some Type V frameworks include:
+A Type V (Neuro_Symbolic) system is a tightly-coupled but distributed neuro-symbolic systems where a symbolic logic rule is mapped onto an embedding which acts as a soft-constraint on the network’s loss function. These systems are often tensorized in some manner. Some Type V frameworks include:
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
 - [2019 - Neural Logic Machines](#neural-logic-machines)
 - 2017 - Hinge-Loss Markov Random Fields and Probabilistic Soft Logic
