@@ -8,9 +8,28 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 
 ## Table of Contents
-- [NSAI Basics](#nsai-basics-and-resources)
-- [NSAI Classification](#nsai-classifications)
+- [NSAI Basics and Resources](#nsai-basics-and-resources)
+  * [NSAI in Two Sentences](#nsai-in-two-sentences)
+  * [Textbooks](#textbooks)
+  * [Overview Articles](#overview-articles)
+- [NSAI Classifications](#nsai-classifications)
+  * [Type I: Symbolic Neural symbolic](#type-i--symbolic-neural-symbolic)
+  * [Type II: Symbolic[Neural]](#type-ii--symbolic-neural-)
+  * [Type III: Neural:Symbolic](#type-iii--neural-symbolic)
+  * [Type IV: Neural:Symbolic → Neural](#type-iv--neural-symbolic---neural)
+  * [Type V: Neural_{Symbolic}](#type-v--neural--symbolic-)
+  * [Type VI: Neuro[Symbolic]](#type-vi--neuro-symbolic-)
 - [Frameworks](#frameworks)
+  * [Logical Neural Network](#logical-neural-network)
+    + [Software](#software)
+    + [Media](#media)
+      - [Academic Papers](#academic-papers)
+      - [Blogs](#blogs)
+  * [Logic Tensor Networks](#logic-tensor-networks)
+  * [Neural Logic Machines](#neural-logic-machines)
+  * [Hinge-Loss Markov Random Fields and Probabilistic Soft Logic](#hinge-loss-markov-random-fields-and-probabilistic-soft-logic)
+  * [TensorLog](#tensorlog)
+  * [Markov Logic Networks](#markov-logic-networks)
 
 
 
@@ -18,8 +37,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## NSAI Basics and Resources
 
-### What is NSAI?
-According to the [Sixteenth International Workshop on Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy-2022/) website, NSAI "aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning. It hopes to create synergies among the strengths of neural and symbolic AI while overcoming their complementary weaknesses."
+### NSAI in Two Sentences
+"NSAI aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning. It hopes to create synergies among the strengths of neural and symbolic AI while overcoming their complementary weaknesses." - [Sixteenth International Workshop on Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy-2022/)
 
 ### Textbooks
 - [2022 - Neuro-Symbolic Artificial Intelligence: The State of the Art](https://www.iospress.com/catalog/books/neuro-symbolic-artificial-intelligence-the-state-of-the-art)
