@@ -12,13 +12,16 @@ If you want to contribute to this list (please do), send me a pull request or co
   * [NSAI in Two Sentences](#nsai-in-two-sentences)
   * [Textbooks](#textbooks)
   * [Overview Articles](#overview-articles)
-- [NSAI Classifications](#nsai-classifications)
-  * [Type I: Symbolic Neural symbolic](#type-i--symbolic-neural-symbolic)
-  * [Type II: Symbolic[Neural]](#type-ii--symbolic-neural-)
-  * [Type III: Neural:Symbolic](#type-iii--neural-symbolic)
-  * [Type IV: Neural:Symbolic → Neural](#type-iv--neural-symbolic---neural)
-  * [Type V: Neural_{Symbolic}](#type-v--neural--symbolic-)
-  * [Type VI: Neuro[Symbolic]](#type-vi--neuro-symbolic-)
+- [NSAI Categories](#nsai-categories)
+  * [Category 1: Sequential](#category-1--sequential)
+    + [Type I](#type-i)
+  * [Category 2: Nested](#category-2--nested)
+  * [Type II](#type-ii)
+  * [Category 3: Cooperative](#category-3--cooperative)
+  * [Type III](#type-iii)
+  * [Category 4: Compiled](#category-4--compiled)
+  * [Type IV](#type-iv)
+  * [Type V](#type-v)
 - [Frameworks](#frameworks)
   * [Logical Neural Network](#logical-neural-network)
     + [Software](#software)
@@ -30,9 +33,6 @@ If you want to contribute to this list (please do), send me a pull request or co
   * [Hinge-Loss Markov Random Fields and Probabilistic Soft Logic](#hinge-loss-markov-random-fields-and-probabilistic-soft-logic)
   * [TensorLog](#tensorlog)
   * [Markov Logic Networks](#markov-logic-networks)
-
-
-
 
 
 ## NSAI Basics and Resources
