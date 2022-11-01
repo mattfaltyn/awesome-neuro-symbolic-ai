@@ -74,6 +74,9 @@ A Type I (symbolic Neuro symbolic) system is standard deep learning. This class 
 - [Sememes-Based Framework for KG Embeddings](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_34)
 - [D4-Gumbel](https://aclanthology.org/P19-1026/)
 - [Cowen-Rivers et al (2019)](https://arxiv.org/abs/1906.04985)
+- [NTF-IDF](https://www.emerald.com/insight/content/doi/10.1108/IJWIS-11-2020-0067/full/html)
+- [FDLC](https://ieeexplore.ieee.org/document/9333555)
+- [RE-ILP](https://aclanthology.org/R19-1076/)
 
 
 ### Category 2: Nested 
