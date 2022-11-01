@@ -60,45 +60,51 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 
 
-## NSAI Classifications
-[Henry Kautz's](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence (slides [here](https://ai.ntu.edu.tw/mlss2021/wp-content/uploads/2021/08/0804-Henry-Kautz.pdf)) is informal standard for classifying neuro-symbolic architectures. Class descriptions are synthesized using Kautz's presentation as well as Garcez et al's [Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf). 
+## NSAI Categories
+[Henry Kautz's](https://en.wikipedia.org/wiki/Henry_Kautz) taxonomy from his Robert S. Englemore Memorial Lecture in 2020 at the Thirty-Fourth AAAI Conference on Artificial Intelligence (slides [here](https://ai.ntu.edu.tw/mlss2021/wp-content/uploads/2021/08/0804-Henry-Kautz.pdf)) is informal standard for categorizing neuro-symbolic architectures. [Hamilton et al (2022)](https://arxiv.org/abs/2202.12205) reframed Kautz's taxonomy into four categories to make it more intuitive. We omit Kautz's Type VI as no architectures currently exist under that category. 
 
-### Type I: Symbolic Neural symbolic
 
-A Type I system is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
+### Category 1: Sequential 
+
+####  Type I
+
+A Type I (symbolic Neuro symbolic) system is standard deep learning. This class is included in the taxonomy as the input and output of a neural network can be symbols (such as words in language translation) that are vectorized within the model. Some Type I frameworks include:
 - BERT
 - RoBERTa
 - GPT-3
 
-### Type II: Symbolic[Neural]
 
-A Type II system is a hybrid system in which a symbolic solver utilizes neural networks as subroutines to solve one or more tasks. Some Type II frameworks include:
+### Category 2: Nested 
+
+### Type II
+
+A Type II (Symbolic[Neuro]) system is a hybrid system in which a symbolic solver utilizes neural networks as subroutines to solve one or more tasks. Some Type II frameworks include:
 - AlphaGo
 
 
-### Type III: Neural:Symbolic
+### Category 3: Cooperative 
 
-A Type III system is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
+### Type III
+
+A Type III (Neuro; Symbolic) system is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
 - Neural-Concept Learner
 
-### Type IV: Neural:Symbolic → Neural
 
-Type IV is a system in which the symbolic knowledge is compiled into the training set of a neural network. Some Type IV frameworks include:
+### Category 4: Compiled 
+
+### Type IV
+
+Type IV (Neuro: Symbolic → Neuro) is a system in which the symbolic knowledge is compiled into the training set of a neural network. Some Type IV frameworks include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
 
-### Type V: Neural_{Symbolic}
+### Type V
 
-A Type V system is a tightly-coupled but distributed neuralsymbolic systems where a symbolic logic rule is mapped onto an embedding which acts as a soft-constraint on the network’s loss function. These systems are often tensorized in some manner. Some Type V frameworks include:
+A Type V (Neuro_Symbolic) system is a tightly-coupled but distributed neuralsymbolic systems where a symbolic logic rule is mapped onto an embedding which acts as a soft-constraint on the network’s loss function. These systems are often tensorized in some manner. Some Type V frameworks include:
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
 - [2019 - Neural Logic Machines](#neural-logic-machines)
 - 2017 - Hinge-Loss Markov Random Fields and Probabilistic Soft Logic
 - 2016 - TensorLog
 - 2006 - Markov Logic Networks
-
-### Type VI: Neuro[Symbolic]
-
-A Type VI system should be capable of true symbolic and combinatorial reasoning inside a neural engine. While no Type VI framework exists, here are some approaches: 
-- Graph Neural Networks
 
 
 
