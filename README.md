@@ -110,9 +110,9 @@ A Type V (Neuro_Symbolic) system is a tightly-coupled but distributed neuro-symb
 
 
 
-## Architectures 
+## Frameworks 
 
-In this section, we aim to provide the most comprehensive NSAI architectures.
+In this section, we aim to provide the most comprehensive NSAI frameworks to date.
 
 ### Logical Neural Network
 A `Neural = Symbolic` framework for sound and complete weighted real-value logic created by IBM Research. 
