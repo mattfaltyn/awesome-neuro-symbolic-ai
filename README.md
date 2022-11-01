@@ -16,12 +16,12 @@ If you want to contribute to this list (please do), send me a pull request or co
   * [Category 1: Sequential](#category-1--sequential)
     + [Type I](#type-i)
   * [Category 2: Nested](#category-2--nested)
-  * [Type II](#type-ii)
+    + [Type II](#type-ii)
   * [Category 3: Cooperative](#category-3--cooperative)
-  * [Type III](#type-iii)
+    + [Type III](#type-iii)
   * [Category 4: Compiled](#category-4--compiled)
-  * [Type IV](#type-iv)
-  * [Type V](#type-v)
+    + [Type IV](#type-iv)
+    + [Type V](#type-v)
 - [Frameworks](#frameworks)
   * [Logical Neural Network](#logical-neural-network)
     + [Software](#software)
@@ -76,7 +76,7 @@ A Type I (symbolic Neuro symbolic) system is standard deep learning. This class 
 
 ### Category 2: Nested 
 
-### Type II
+#### Type II
 
 A Type II (Symbolic[Neuro]) system is a hybrid system in which a symbolic solver utilizes neural networks as subroutines to solve one or more tasks. Some Type II frameworks include:
 - AlphaGo
@@ -84,7 +84,7 @@ A Type II (Symbolic[Neuro]) system is a hybrid system in which a symbolic solver
 
 ### Category 3: Cooperative 
 
-### Type III
+#### Type III
 
 A Type III (Neuro; Symbolic) system is a hybrid system where a neural network solves one task and interacts via its input and output with a symbolic system that solves a different task. Some Type III frameworks include:
 - Neural-Concept Learner
@@ -92,12 +92,12 @@ A Type III (Neuro; Symbolic) system is a hybrid system where a neural network so
 
 ### Category 4: Compiled 
 
-### Type IV
+#### Type IV
 
 Type IV (Neuro: Symbolic → Neuro) is a system in which the symbolic knowledge is compiled into the training set of a neural network. Some Type IV frameworks include:
 - [2020 - Logical Neural Networks](#logical-neural-network)
 
-### Type V
+#### Type V
 
 A Type V (Neuro_Symbolic) system is a tightly-coupled but distributed neuro-symbolic systems where a symbolic logic rule is mapped onto an embedding which acts as a soft-constraint on the network’s loss function. These systems are often tensorized in some manner. Some Type V frameworks include:
 - [2020 - Logic Tensor Networks](#logic-tensor-networks)
